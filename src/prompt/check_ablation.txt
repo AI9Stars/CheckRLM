@@ -1,0 +1,2 @@
+Task: Extract only explicit factual claims from the Reasoning Process that are helpful to answering the Question. Output is a list of string. If there is no factual claim in the Reasoning Process, just output []. The output foramt is as follows: 
+["factual claim 1", "factual claim 2", ...]

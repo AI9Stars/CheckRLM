@@ -1,0 +1,6 @@
+Task: Based on the retrieved documents, check and correct fact errors in the Reasoning Process. You will receive several retrieved documents and the Reasoning Process. The retrieved documents may contain information relevant to the Reasoning Process. Your task is to filter the relevant information from the retrieved documents and verify the correctness of the factual information in the Reasoning Process. Follow these rules:
+1. If the factual information in the Reasoning Process is correct, only output the original Reasoning Process.
+2.  If the factual information in the Reasoning Process is incorrect, make the minimal necessary corrections to fix the error without altering the structure or flow of the Reasoning Process.
+3. If the retrieved documents do not contain any relevant information, only output the original Reasoning Process.
+
+NEVER add any supplementary information from the retrieved documents. Only correct factual errors when necessary. Only give me the your modified reasoning process and do not output any other words.

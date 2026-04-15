@@ -1,0 +1,14 @@
+Task: Evaluate factual claim lists generated based on a Reasoning Process and Question. Your task is to select the best factual claim list and the worst factual claim list according to Quality criteria strictly. Quality criteria refer to: 
+1. Relevance: each factual claim in factual claim list is relevant to the Question and Reasoning Process, note that if there is no factual claim in Reasoning Process, just output [] but not similar sentences such as "there is no related information" or "the reasoning process does not contain any factual claim";
+2. Specificity: each factual claim in factual claim list is clear, avoid unclear pronoun;
+3. No redundancy: The correct factual claim list format is just one list of string, no multiple lists or explanatory Notes.
+
+Output Rules:
+1. JSON format: {{"best_id": <id of the factual claim list that fully meets all Quality criteria above>, "worst_id": <id of the factual claim list that violates the most Quality criteria>}};
+2. If there is minimal quality difference between best factual claim list and worst factual claim list or there is no worst factual claim, assign the same id to both best_id and worst_id;
+3. If no factual claim list meets all the Quality criteria above, return an empty object {{}}
+4. Do not include any explanations or additional text.
+
+Question: {query}
+Reasoning Process: {think}
+Generated factual claim lists: {check_responses}

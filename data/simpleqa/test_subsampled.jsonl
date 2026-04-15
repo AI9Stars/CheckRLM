@@ -1,0 +1,500 @@
+{"question_id": "simpleqa_1", "question": "At which university did Jurgen Aschoff study medicine?", "ground_truth": "University of Bonn."}
+{"question_id": "simpleqa_2", "question": "In which specific issue did Black Condor II perish?", "ground_truth": "Infinite Crisis #1"}
+{"question_id": "simpleqa_3", "question": "Where is Sagg Eco Village located in Jammu & Kashmir, India?", "ground_truth": "Ganderbal"}
+{"question_id": "simpleqa_4", "question": "What is the birth name of the Mexican artist Peso Pluma?", "ground_truth": "Hassan Emilio Kabande Laija"}
+{"question_id": "simpleqa_5", "question": "Can you provide me with the DOI of the paper \"Generating Semantic Maps through Multidimensional Scaling: Linguistic Applications and Theory\"?", "ground_truth": "10.1515/cllt-2021-0018"}
+{"question_id": "simpleqa_6", "question": "What were the month, day, and year when the construction of the UN headquarters in New York City was completed?", "ground_truth": "October 9, 1952"}
+{"question_id": "simpleqa_7", "question": "What's the month, day, and year of the online publication of the paper \"Articulatory constraints on stop insertion and elision in consonant clusters\"?", "ground_truth": "5th September, 2011"}
+{"question_id": "simpleqa_8", "question": "What's the secret identity of the third Phantom Lady?", "ground_truth": "Stormy Knight"}
+{"question_id": "simpleqa_9", "question": "At the 2006 census, what was the population of Darrud, Iran?", "ground_truth": "4,979"}
+{"question_id": "simpleqa_10", "question": "What month, day, and year was House Resolution 7004, \"Addressing the Governor's unacceptable actions in matters related to the appraiser certification program,\" introduced against Governor Kristi Noem?", "ground_truth": "February 24, 2022"}
+{"question_id": "simpleqa_11", "question": "In TWD Season 11, Episode 10, we learn that Connie got whose uncle kicked out of Congress before the apocalypse?", "ground_truth": "Pamela Milton's uncle"}
+{"question_id": "simpleqa_12", "question": "What year did Kinoko Teikoku release their first single \"Taikutsu Shinogi\" (退屈しのぎ)?", "ground_truth": "2012"}
+{"question_id": "simpleqa_13", "question": "In which year did Clint Ballard Jr. adopt the alias Buddy Clinton to cut a two-sided single?", "ground_truth": "1960"}
+{"question_id": "simpleqa_14", "question": "In which year did Habiba Ghribi win the junior race of the Pan Arab Cross Country Championships?", "ground_truth": "2002"}
+{"question_id": "simpleqa_15", "question": "What change did Patch 0.7 make to the spell Crusader Strike in the beta of World of Warcraft?", "ground_truth": "Damage increased and instant cast spell."}
+{"question_id": "simpleqa_16", "question": "After the War of 1812, Edward William McBride (1791-1834) worked as what for the king's printer, John Cameron, on the York Gazette until April 1815?", "ground_truth": "Assistant"}
+{"question_id": "simpleqa_17", "question": "What patch changed the required amount of titanium ore to make a titanium bar from 5 to 4 in Terraria?", "ground_truth": "Desktop 1.4.1"}
+{"question_id": "simpleqa_18", "question": "Who appointed the Chief Justice of India, Kailas Nath Wanchoo, in 1967?", "ground_truth": "Sarvepalli Radhakrishnan"}
+{"question_id": "simpleqa_19", "question": "What Serbian player played in the quarterfinals of the 2018 Madrid Open men's singles?", "ground_truth": "Dušan Lajović"}
+{"question_id": "simpleqa_20", "question": "What year did Seiko release their first 300m diver watch?", "ground_truth": "1968"}
+{"question_id": "simpleqa_21", "question": "What is the first and last name of the first individual to be inducted into the Gospel Music Hall of Fame by the Gospel Music Association who was not a musician?", "ground_truth": "Billy Graham "}
+{"question_id": "simpleqa_22", "question": "How many units of the Infanterikanonvagn 72 (1952) were delivered to the Swedish army from 1953 to 1954?", "ground_truth": "36."}
+{"question_id": "simpleqa_23", "question": "Who was the rector of Hacettepe University in 2006?", "ground_truth": "Prof. Dr. Tunçalp ÖZGEN"}
+{"question_id": "simpleqa_24", "question": "On what day, month, and year did Gopalaswami Parthasarathy assume the charge of Vice Chancellor of Jawaharlal Nehru University?", "ground_truth": "April 28, 1969"}
+{"question_id": "simpleqa_25", "question": "Which piece of art by Raphael was sold by Joseph Joel Duveen to Peter Arrell Browne Widener in 1913?", "ground_truth": "Small Cowper Madonna"}
+{"question_id": "simpleqa_26", "question": "Up to how many meters high does the Pittosporum divaricatum grow?", "ground_truth": "3 metres"}
+{"question_id": "simpleqa_27", "question": "In which year was the municipality of Macanal, Boyacá, Colombia, founded?", "ground_truth": "1807"}
+{"question_id": "simpleqa_28", "question": "The Visvim FBT's name is influenced by the name of what music group?", "ground_truth": "Fun Boy Three"}
+{"question_id": "simpleqa_29", "question": "From which university did Teresa Czerwińska earn her Ph.D.?", "ground_truth": "University of Gdańsk"}
+{"question_id": "simpleqa_30", "question": "The first brief description of Agrilus planipennis was published by Léon Fairmaire in which French journal in 1888?", "ground_truth": "Revue d'Entomologie "}
+{"question_id": "simpleqa_31", "question": "Which year was the actinide concept proposed?", "ground_truth": "1944"}
+{"question_id": "simpleqa_32", "question": "As of 2022, what is the name of the smallest known exoplanet within 10 parsecs of Earth's solar system?", "ground_truth": "Gliese 367 b"}
+{"question_id": "simpleqa_33", "question": "How many days was Kaitlin Armstrong on the run from authorities for killing Moriah Wilson?", "ground_truth": "43"}
+{"question_id": "simpleqa_34", "question": "On which day, month, and year was the Marathi daily broadsheet newspaper Bahujanratna Loknayak founded?", "ground_truth": "23 October 2005"}
+{"question_id": "simpleqa_35", "question": "Which hotel was awarded World's Leading Adventure Hotel 2022?", "ground_truth": "Pikaia Lodge"}
+{"question_id": "simpleqa_36", "question": "On which album does the Relient K song \"May the Horse Be with You\" appear?", "ground_truth": "\"The Anatomy of the Tongue in Cheek\""}
+{"question_id": "simpleqa_37", "question": "What day, month, and year was the EverQuest II original soundtrack officially released?", "ground_truth": "8 Nov 2004"}
+{"question_id": "simpleqa_38", "question": "What's the painting by Munch called with a tired girl lying on a bed painted in 1894?", "ground_truth": "The Day After"}
+{"question_id": "simpleqa_39", "question": "Who designed the San Martín Palace?", "ground_truth": "The San Martín Palace was designed by the architect Alejandro Christophersen."}
+{"question_id": "simpleqa_40", "question": "From which year was Elizabeth Esteve-Coll head of Learning Resources at Kingston Polytechnic?", "ground_truth": "1977"}
+{"question_id": "simpleqa_41", "question": "How many sons and daughters did former State President of South Africa, P.W. Botha, have with his wife Anna Elizabeth Rossouw?", "ground_truth": "two sons and three daughters."}
+{"question_id": "simpleqa_42", "question": "What production did the Winnipeg Daily Free Press claim was “too spicy – at least for this town” in June 1880?", "ground_truth": "James Albery's Pink Dominoes"}
+{"question_id": "simpleqa_43", "question": "In what year did conductor David Randolph marry Mildred Greenberg?", "ground_truth": "1948"}
+{"question_id": "simpleqa_44", "question": "Within plus or minus one minute, when did Rober Pier receive a yellow card in the La Liga match between Levante and Real Sociedad on May 6, 2022?", "ground_truth": "52nd minute"}
+{"question_id": "simpleqa_45", "question": "What month and year were the Opuke Thermal Pools & Spa opened in Methven, New Zealand?", "ground_truth": "November 2021"}
+{"question_id": "simpleqa_46", "question": "In what year did the Whitney Museum of American Art devote an entire floor to Julie Mehretu for the first time?", "ground_truth": "2021."}
+{"question_id": "simpleqa_47", "question": "What specific date (month, day, year) was the very first Q Con hosted by Prism Comics in West Hollywood?", "ground_truth": "June 18, 2022"}
+{"question_id": "simpleqa_48", "question": "In Severance, whom does Mark Scout replace as department head?", "ground_truth": "Peter \"Petey\" Kilmer"}
+{"question_id": "simpleqa_49", "question": "In what year was the District of Columbia Baptist Convention excommunicated due to its support of LGBTQ inclusion?", "ground_truth": "2018"}
+{"question_id": "simpleqa_50", "question": "How many episodes was Ginnifer Goodwin in \"Big Love: In the Beginning\"?", "ground_truth": "2"}
+{"question_id": "simpleqa_51", "question": "What city did Ciara perform in on May 29, 2015, for her Jackie Tour?", "ground_truth": "Riverside, California"}
+{"question_id": "simpleqa_52", "question": "What was composer Sigrid Ingeborg Henriette Wienecke's mother's name?", "ground_truth": "Anna Bruun Tordenskjold"}
+{"question_id": "simpleqa_53", "question": "How many Indigenous languages were designated in Togo in 1975?", "ground_truth": "Two"}
+{"question_id": "simpleqa_54", "question": "In how many first-class matches did Douglas Bennett, the South African cricketer, play from 1912 to 1924?", "ground_truth": "7"}
+{"question_id": "simpleqa_55", "question": "In what year was Clyde Pinelands Football Club established in Cape Town?", "ground_truth": "1898"}
+{"question_id": "simpleqa_56", "question": "How many dollars did Randolph Cook sue Oprah Winfrey for, for blocking a tell-all book about their alleged relationship?", "ground_truth": "$20 million"}
+{"question_id": "simpleqa_57", "question": "\"The Little Village that Grew,\" a local history published in 1987 and contributed to by the Northside Community Association, is about which Alberta village?", "ground_truth": "North Red Deer."}
+{"question_id": "simpleqa_58", "question": "In 2022, how much money in US dollars did one person win from a $1 superfecta bet at the Mohegan Sun sportsbook?", "ground_truth": "$321,500"}
+{"question_id": "simpleqa_59", "question": "What is the elevation in feet of Apharwat Peak in Gulmarg?", "ground_truth": "14,403 ft"}
+{"question_id": "simpleqa_60", "question": "What is the name of the college where Prince Nirajan Bir Bikram Shah Dev completed his bachelor's degree?", "ground_truth": "Kathmandu College of Management."}
+{"question_id": "simpleqa_61", "question": "What day, month, and year was Rosa Whitaker Day proclaimed by Rep. Charles Rangel?", "ground_truth": "July 9, 2016"}
+{"question_id": "simpleqa_62", "question": "In what year did Ruth Sager receive the Gilbert Morgan Smith Medal?", "ground_truth": "1988"}
+{"question_id": "simpleqa_63", "question": "In what year did Deborah Rhode take over from Judith Brown as Director of the Clayman Institute for Gender Research?", "ground_truth": "1986"}
+{"question_id": "simpleqa_64", "question": "As of 2022, in which years did the Pakistani team not participate in the FIH World Cup?", "ground_truth": "2014"}
+{"question_id": "simpleqa_65", "question": "In which year did Ghana's former Minister of Finance, Kwadwo Baah-Wiredu, obtain the GCE Ordinary Level Certificate?", "ground_truth": "1972"}
+{"question_id": "simpleqa_66", "question": "What is the name of the photography partnership that photographed Charles James Blasius Williams in 1873?", "ground_truth": "Barraud & Jerrard"}
+{"question_id": "simpleqa_67", "question": "Which angel is portrayed in Leonardo da Vinci's \"Virgin of the Rocks\"?", "ground_truth": "The angel Uriel."}
+{"question_id": "simpleqa_68", "question": "What day, month, and year was the soundtrack album \"Mario Kart 64 Greatest Hits\" released in the United States?", "ground_truth": "March 1, 1997"}
+{"question_id": "simpleqa_69", "question": "In which month of 1993 was the Jianbing-93 spacecraft launched?", "ground_truth": "October"}
+{"question_id": "simpleqa_70", "question": "Which engineer received the Worcester Reed Warner Medal in 1951?", "ground_truth": "Jacob Pieter Den Hartog"}
+{"question_id": "simpleqa_71", "question": "What year was the municipality of Andes, Antioquia, Colombia, founded?", "ground_truth": "1852"}
+{"question_id": "simpleqa_72", "question": "As of the 2020 Census, what was the population of Wheatland, Iowa?", "ground_truth": "775"}
+{"question_id": "simpleqa_73", "question": "Who invited Isadora Duncan to tour with them in 1902?", "ground_truth": "It was Loie Fuller who invited Isadora Duncan to tour with her."}
+{"question_id": "simpleqa_74", "question": "What year was the municipality of Caicedo, Antioquia, Colombia, founded?", "ground_truth": "1870"}
+{"question_id": "simpleqa_75", "question": "Who was the maternal grandfather of the Russian stage actress and singer Baroness Olga Vadimovna von Root?", "ground_truth": "Karl Kazimirovich Kostsyushko-Valyuzhinich"}
+{"question_id": "simpleqa_76", "question": "What was the title of Paola Massarenghi's spiritual madrigal printed in Arcangelo Gherardini's *Primo libro de madrigali a cinque voci* in 1585?", "ground_truth": "Quando spiega l'insegn'al sommo padre"}
+{"question_id": "simpleqa_77", "question": "In what year was the Kingston Symphony Association, a Canadian arts organization, formed?", "ground_truth": "1963"}
+{"question_id": "simpleqa_78", "question": "Who was the spouse of the Indian gangster and politician Santokben Jadeja?", "ground_truth": "Sarman Munja Jadeja"}
+{"question_id": "simpleqa_79", "question": "How many men competed in fencing during the 1964 Summer Olympics?", "ground_truth": "203"}
+{"question_id": "simpleqa_80", "question": "What was the name of the artist who painted the first Duchess and Lady Fitzharding playing cards, which hung in the green drawing room as of 1908, according to \"Historic Houses and Their Gardens: Palaces, Castles, Country Places, and Gardens of the Old and New Worlds\"?", "ground_truth": "Sir Godfrey Kneller"}
+{"question_id": "simpleqa_81", "question": "In 2012, what country did the ICJ say had sovereignty over Bajo Nuevo?", "ground_truth": "The Republic of Colombia "}
+{"question_id": "simpleqa_82", "question": "Who was the lawyer who developed matrix algebra and also worked on higher-dimensional geometry?", "ground_truth": "Arthur Cayley"}
+{"question_id": "simpleqa_83", "question": "What is the first name of the individual who won the Gordon E. Moore Medal, an award given yearly by the Society of Chemical Industry to someone who has displayed early career success involving innovation in chemical industries, in 2010?", "ground_truth": "Emmett"}
+{"question_id": "simpleqa_84", "question": "What Toronto doctoral student coauthored \"Note on Symmetric Algebras (1938)\" with Tadashi Nakayama?", "ground_truth": "Cecil J Nesbitt"}
+{"question_id": "simpleqa_85", "question": "On which day, month, and year was Jomo Cosmos, the South African professional association football club based in Johannesburg that plays in the ABC Motsepe League, founded for the first time?", "ground_truth": "29 January 1983"}
+{"question_id": "simpleqa_86", "question": "In what year did the Costume Institute become a curatorial department?", "ground_truth": "1959"}
+{"question_id": "simpleqa_87", "question": "On what day, month, and year were the Streamy Awards first awarded?", "ground_truth": "28 of March of 2009"}
+{"question_id": "simpleqa_88", "question": "In which industry did painter William Moore Davis work before he became a full-time painter?", "ground_truth": "In the shipbuilding industry."}
+{"question_id": "simpleqa_89", "question": "Who are the five judges of the Supreme Court who restored the awards and delivered a judgment that the \"Bharat Ratna and Padma awards are not titles under Article 18 of the Constitution of India?\"", "ground_truth": "Ahmadi C. J., Kuldip Singh, B. P. Jeevan Reddy, N. P. Singh, and S. Saghir Ahmad."}
+{"question_id": "simpleqa_90", "question": "What store did Fresh Cut Grass get their blue leather duster from while in Uthodurn during Critical Role's Campaign 3?", "ground_truth": "Catlyn's Clothier"}
+{"question_id": "simpleqa_91", "question": "How old was Olga Kharlan when she joined the Ukrainian National Olympic team?", "ground_truth": "14."}
+{"question_id": "simpleqa_92", "question": "What year did the disco named Infinity in NYC burn down?", "ground_truth": "1979"}
+{"question_id": "simpleqa_93", "question": "What was the last name of the senator from New York who presented Reverend Billy Graham with the Gold Award of the George Washington Carver Memorial Institute in 1964?", "ground_truth": "Javits "}
+{"question_id": "simpleqa_94", "question": "What is the maximum depth of the Mediterranean Sea in meters?", "ground_truth": "5109 m"}
+{"question_id": "simpleqa_95", "question": "Who was the 3rd umpire in the Indian Premier League 2019 final match between CSK and MI on May 12, 2019?", "ground_truth": "Nigel Llong"}
+{"question_id": "simpleqa_96", "question": "In which year did the former PM of J&K, Mehr Chand Mahajan, become a judge of the Lahore High Court?", "ground_truth": "1943"}
+{"question_id": "simpleqa_97", "question": "What are the season number, episode number, and title of the animated series \"Avatar: The Last Airbender\" in which the history of the city Omashu is explained?", "ground_truth": "Season 2 Episode 2 The Cave of Two Lovers"}
+{"question_id": "simpleqa_98", "question": "Adil Hussain was the artistic director and trainer of which organization from 2004 to 2007?", "ground_truth": "Society for Artists and Performers"}
+{"question_id": "simpleqa_99", "question": "How many referees were selected from the South American Football Confederation (CONMEBOL) for the 2010 FIFA World Cup in Durban, South Africa?", "ground_truth": "6"}
+{"question_id": "simpleqa_100", "question": "In the British drama series \"Happy Valley,\" who does Alec Secareanu play?", "ground_truth": "Darius Knezevic."}
+{"question_id": "simpleqa_101", "question": "How many minutes and seconds did it take Indian swimmer Vedaant Madhavan to finish the 1500m freestyle race at the 48th Junior National Aquatic Championships?", "ground_truth": "16:01.73 seconds"}
+{"question_id": "simpleqa_102", "question": "Which tabloid first published William Aloysius \"Bil\" Keane's first cartoon?", "ground_truth": "Philadelphia Daily News"}
+{"question_id": "simpleqa_103", "question": "What were the date, month, and year ARA's operations in Russia were shut down?", "ground_truth": "June 15, 1923."}
+{"question_id": "simpleqa_104", "question": "Who was the Scotsman that formed Clyde Pinelands Football Club in Cape Town in 1898?", "ground_truth": "Daddy McCloud"}
+{"question_id": "simpleqa_105", "question": "On June 24, 2018, how many more votes did the winning candidate get in total than Muharrem İnce?", "ground_truth": "10,990,502"}
+{"question_id": "simpleqa_106", "question": "What title did the Royal Academy of Arts appoint to Cornelia Parker in 2010?", "ground_truth": "Officer of the Order of the British Empire (OBE)"}
+{"question_id": "simpleqa_107", "question": "How many inductees did the American Classical Music Hall of Fame have in 2005?", "ground_truth": "None."}
+{"question_id": "simpleqa_108", "question": "How many Big East Championships did Frank Beamer win?", "ground_truth": "3"}
+{"question_id": "simpleqa_109", "question": "Armsia petasus is endemic to which country?", "ground_truth": "United States of America"}
+{"question_id": "simpleqa_110", "question": "Who won the Paris Kanellakis Theory and Practice Award in 2014?", "ground_truth": "James Demmel"}
+{"question_id": "simpleqa_111", "question": "Nilgai is the state animal of which Union Territory of India?", "ground_truth": "Delhi"}
+{"question_id": "simpleqa_112", "question": "What day, month, and year was David Crombie appointed an Officer of the Order of Canada?", "ground_truth": "13 May 2004"}
+{"question_id": "simpleqa_113", "question": "What was the prize money, in British pounds, awarded to the loser of the chess match featuring Wilhelm Steinitz and Adolf Anderssen in 1866?", "ground_truth": "£20"}
+{"question_id": "simpleqa_114", "question": "What was the strike rate of Harbhajan Singh in the final match of IPL 2015?", "ground_truth": "200.00"}
+{"question_id": "simpleqa_115", "question": "On what month, day, and year was Mammoth Cave National Park first designated as an International Dark Sky Park?", "ground_truth": "October 28, 2021."}
+{"question_id": "simpleqa_116", "question": "In which Paris arrondissement was the apartment where Hermann Goldschmidt lived when he discovered 45 Eugenia located?", "ground_truth": "6th"}
+{"question_id": "simpleqa_117", "question": "How many additional dollars did Carmen and Natalie borrow from their uncle Cicero in Season 2 of The Bear?", "ground_truth": "$500,000"}
+{"question_id": "simpleqa_118", "question": "On what day, month, and year was Rosa Bloch-Bollag, a Swiss politician and activist, born?", "ground_truth": "30 June 1880."}
+{"question_id": "simpleqa_119", "question": "How many assists did Kostas Tsimikas have across all competitions in the 2021-2022 season?", "ground_truth": "6"}
+{"question_id": "simpleqa_120", "question": "Which year was Leonard P. Zakim involved in the reelection campaign of Michael Dukakis?", "ground_truth": "1978"}
+{"question_id": "simpleqa_121", "question": "When did BAe and the American aircraft manufacturer McDonnell Douglas sign a memorandum of understanding regarding the McDonnell Douglas AV-8B Harrier II? Example answer: mm-yyyy", "ground_truth": "08-1981"}
+{"question_id": "simpleqa_122", "question": "What month, day, and year was Gwen Ifill honored on a U.S. postage stamp?", "ground_truth": "January 30, 2020"}
+{"question_id": "simpleqa_123", "question": "Which architect built the Fernández Anchorena Palace?", "ground_truth": "Eduardo Le Monnier"}
+{"question_id": "simpleqa_124", "question": "According to Karl Küchler, what did Empress Elizabeth of Austria's favorite sculpture depict, which was made for her villa Achilleion at Corfu?", "ground_truth": "Poet Henrich Heine."}
+{"question_id": "simpleqa_125", "question": "In which competition did Ken Kesey place second in his weight class in 1957?", "ground_truth": "Pacific Coast intercollegiate competition"}
+{"question_id": "simpleqa_126", "question": "What day, month, and year did the actor Dylan Sprouse marry Barbara Palvin?", "ground_truth": "15 of July of 2023"}
+{"question_id": "simpleqa_127", "question": "What were the month, day, and year that Thomas Randolph wrote to the Earl of Leicester, stating that he was unable and unwilling to commit his opinions on Mary's actions on paper for fear of appearing \"malicieus foolyshe and unadvised\"?", "ground_truth": "14 February 1566"}
+{"question_id": "simpleqa_128", "question": "On what day, month, and year did the Philippines ratify the Southeast Asian Nuclear-Weapon-Free Zone Treaty?", "ground_truth": "21 June 2001"}
+{"question_id": "simpleqa_129", "question": "In what year did Etta Cone commission Henri Matisse to make a posthumous portrait of Claribel Cone?", "ground_truth": "1930"}
+{"question_id": "simpleqa_130", "question": "As of 6 April 2022, how many Hillsong branches in the U.S. had separated from the church since the revelations about Brian Houston?", "ground_truth": "9"}
+{"question_id": "simpleqa_131", "question": "What day, month, and year was the dungeon Dire Maul originally added to the game \"World of Warcraft\"?", "ground_truth": "7 March 2005"}
+{"question_id": "simpleqa_132", "question": "What was the first season in which the number of houseguests for the American version of \"Big Brother\" increased?", "ground_truth": "2"}
+{"question_id": "simpleqa_133", "question": "Who was the first Deputy Chief Minister of Jammu and Kashmir?", "ground_truth": "Mirza Afzal Beg"}
+{"question_id": "simpleqa_134", "question": "On which day, month, and year did Anugrah Narayan Sinha become the Deputy Premier cum Finance Minister of Bihar province?", "ground_truth": "July 20th, 1937"}
+{"question_id": "simpleqa_135", "question": "Who did the set and costume design for the Antigone production at the Epidaurus Festival 2022?", "ground_truth": "Kenny McLellan"}
+{"question_id": "simpleqa_136", "question": "In which month and year did Naresh Trehan (an Indian cardiovascular and cardiothoracic surgeon) move to the USA and become a first-year resident at the Thomas Jefferson University Hospital in Philadelphia?", "ground_truth": "November 1969"}
+{"question_id": "simpleqa_137", "question": "How many episodes of \"Harold and the Purple Crayon\" did Van Dyke Parks work on as a composer?", "ground_truth": "12"}
+{"question_id": "simpleqa_138", "question": "In what year was Nash-Williams' doctoral thesis \"Decomposition of Graphs into Infinite Chains\" submitted to Cambridge University?", "ground_truth": "1958"}
+{"question_id": "simpleqa_139", "question": "How many bronze medals did Sweden win at the 1956 Summer Olympics?", "ground_truth": "6."}
+{"question_id": "simpleqa_140", "question": "In the series \"The Jeffersons,\" who called George and Louise \"Mr. J\" and \"Mrs. J\"?", "ground_truth": "Harry Bentley"}
+{"question_id": "simpleqa_141", "question": "What year was the municipality of Amagá, Antioquia, Colombia, founded?", "ground_truth": "1788"}
+{"question_id": "simpleqa_142", "question": "What was the first and last name of the voice actor who voiced the Little Sisters in the video game BioShock 2 (2010)?", "ground_truth": "Jodelle Ferland"}
+{"question_id": "simpleqa_143", "question": "As of which month and year did StatCounter estimate that Chrome has a 65% worldwide browser market share (after peaking at 72.38% in November 2018) on personal computers?", "ground_truth": "April 2024"}
+{"question_id": "simpleqa_144", "question": "What is the name of the performance Marina Abramović and Uwe Laysiepen performed in 1976?", "ground_truth": "In Relation in Space"}
+{"question_id": "simpleqa_145", "question": "What day, month, and year did the Christchurch, New Zealand, real estate agent Yanfei Bao go missing?", "ground_truth": "19 of July of 2023"}
+{"question_id": "simpleqa_146", "question": "What was the full name of the Indian medical doctor and surgical oncologist who received the Padma Shri and the Lal Bahadur Shastri National Award in January and October 2013, respectively?", "ground_truth": "Rajendra Achyut Badwe"}
+{"question_id": "simpleqa_147", "question": "In which year and month did El Cielo receive its first Michelin star in Miami?", "ground_truth": "June 2022"}
+{"question_id": "simpleqa_148", "question": "In what year was the Ethiopian politician Billene Seyoum Woldeyes born?", "ground_truth": "1982"}
+{"question_id": "simpleqa_149", "question": "Who was the Guy Medal in Gold awarded to in 1973?", "ground_truth": "David Cox"}
+{"question_id": "simpleqa_150", "question": "Who was the 11th Prime Minister of India?", "ground_truth": "Shri H. D. Deve Gowda"}
+{"question_id": "simpleqa_151", "question": "How many siblings did Pauline LaFon Gore have?", "ground_truth": "5"}
+{"question_id": "simpleqa_152", "question": "What were the first, middle, and last names of the third deputy speaker of the National Assembly of Pakistan?", "ground_truth": "Cecil Edward Gibbon"}
+{"question_id": "simpleqa_153", "question": "What was the full name of the first Prime Minister of Congo?", "ground_truth": "Patrice Émery Lumumba."}
+{"question_id": "simpleqa_154", "question": "With how many points did Romania finish the 2022 Rugby Europe Championship?", "ground_truth": "14"}
+{"question_id": "simpleqa_155", "question": "How many acres of land did Oprah Winfrey purchase in Rolling Prairie, Indiana, as her weekend refuge in 1998?", "ground_truth": "164"}
+{"question_id": "simpleqa_156", "question": "Which place is the first Ramsar wetland site in Goa?", "ground_truth": "Nanda Lake"}
+{"question_id": "simpleqa_157", "question": "On what day, month, and year did Mereta Mita die, and what was the reason behind her death?", "ground_truth": "Mita died suddenly on 31 May 2010, after collapsing outside the studios of Māori Television."}
+{"question_id": "simpleqa_158", "question": "Who was the 6th Prime Minister of Nepal?", "ground_truth": "Fateh Jang Shah"}
+{"question_id": "simpleqa_159", "question": "On her Jay-Z & Ciara Live concert tour, in what city, town, or village did Ciara perform on July 10, 2009?", "ground_truth": "Uncasville"}
+{"question_id": "simpleqa_160", "question": "What were Martin Haspelmath's and Michael Cysouw's respective affiliations when they authored \"Identifying Semantic Role Clusters and Alignment Types via Microrole Coexpression Tendencies\"?", "ground_truth": "Max Planck Institute for Evolutionary Anthropology and Philipps-Universität Marburg"}
+{"question_id": "simpleqa_161", "question": "What were the month, day, and year of philosopher Edmund Burke's last day in office as Paymaster of the Forces?", "ground_truth": "8 January 1784"}
+{"question_id": "simpleqa_162", "question": "In which year was Dina Nath Walli (an Indian watercolor artist and poet from Srinagar city) born?", "ground_truth": "1908"}
+{"question_id": "simpleqa_163", "question": "Who did Theodore von Kármán select as his research assistant when he accepted the directorship of the Guggenheim Aeronautical Laboratory at the California Institute of Technology in 1930?", "ground_truth": "Frank Wattendorf"}
+{"question_id": "simpleqa_164", "question": "Who won the Heinz Hopf Prize in 2019?", "ground_truth": "Ehud Hrushovski"}
+{"question_id": "simpleqa_165", "question": "Julie Mehretu was awarded the Barnett and Annalee Newman Award for the first time in what year?", "ground_truth": "2013"}
+{"question_id": "simpleqa_166", "question": "Who was the Ambassador of India to the Soviet Union from 1949 to 1952?", "ground_truth": "Sarvepalli Radhakrishnan"}
+{"question_id": "simpleqa_167", "question": "What were the original names of the first three ships in the Sea Organization associated with the Church of Scientology?", "ground_truth": "Avon River, Enchanter, and HMS Royal Scotsman"}
+{"question_id": "simpleqa_168", "question": "What was the first and last name of the person who designed the historic Emil J. Oberhoffer House in Lakeville, Minnesota, United States?", "ground_truth": "Paul Haugen"}
+{"question_id": "simpleqa_169", "question": "Which mathematician received the Salem Prize in 1969?", "ground_truth": "Richard Hunt."}
+{"question_id": "simpleqa_170", "question": "What is the 14th song on the official Demon's Souls soundtrack CD released in 2009?", "ground_truth": "Maneater"}
+{"question_id": "simpleqa_171", "question": "In which year did Hit Parader stop including song lyrics because licensing the rights was too expensive?", "ground_truth": "1975"}
+{"question_id": "simpleqa_172", "question": "What is the altitude in meters above sea level of Tikti Mach'ay Mountain?", "ground_truth": "5000"}
+{"question_id": "simpleqa_173", "question": "What was the name of the Andalusi poet Mansa Musa met on his return journey from his pilgrimage to Mecca between 1324 and 1325?", "ground_truth": "Abu Ishaq al-Sahili."}
+{"question_id": "simpleqa_174", "question": "What year were the Burlington Sock Puppets founded?", "ground_truth": "2021"}
+{"question_id": "simpleqa_175", "question": "Under what section of CRPC was Omar Abdullah placed under preventive detention by the Indian government on the 4th and 5th of August 2019?", "ground_truth": "107"}
+{"question_id": "simpleqa_176", "question": "What year was the municipality of Valparaíso, Antioquia, Colombia, founded?", "ground_truth": "1860"}
+{"question_id": "simpleqa_177", "question": "What were the first and last names of the two individuals who discovered Crystal Cave in the Sequoia National Park area in California, United States?", "ground_truth": " Alex Medley and Cassius Webster"}
+{"question_id": "simpleqa_178", "question": "What is the first and last name of the professor who received the Royal Society of Chemistry Bader Award in 2021?", "ground_truth": "Alison Hulme"}
+{"question_id": "simpleqa_179", "question": "In which month of 2005 was the Lal Bahadur Shastri Dam, also known as the Almatti Dam, located on the Krishna River in North Karnataka, India, completed?", "ground_truth": "July"}
+{"question_id": "simpleqa_180", "question": "Who is the new employee that appears in Episode 1 of Severance?", "ground_truth": "Helly"}
+{"question_id": "simpleqa_181", "question": "Which Prime Minister of Italy was named 'Iron Baron'?", "ground_truth": "Bettino Ricasoli"}
+{"question_id": "simpleqa_182", "question": "Which city hosted the India-Bangladesh SAMPRITI-IX joint military exercise?", "ground_truth": "Umroi"}
+{"question_id": "simpleqa_183", "question": "What was the cause of Colin Pittendrigh's death?", "ground_truth": "Cancer"}
+{"question_id": "simpleqa_184", "question": "What is the full name of the neurologist and physiologist who demonstrated intellectual curiosity along with an unusual energy which he referred to as \"the instinct for research\"?", "ground_truth": "Ivan Petrovich Pavlov."}
+{"question_id": "simpleqa_185", "question": "What is the number of years that Top Thrill Dragster held the record for the tallest and fastest roller coaster in the world?", "ground_truth": "Two"}
+{"question_id": "simpleqa_186", "question": "Who did Buzz Thomas defeat in the 2006 election for the Michigan State Senate - 4th District?", "ground_truth": "Karen Fobbs"}
+{"question_id": "simpleqa_187", "question": "What is the Edo name of the crown traditionally worn by the Iyoba (Queen Mother) of the Oba of Benin?", "ground_truth": "ukpe-okhue"}
+{"question_id": "simpleqa_188", "question": "In what patch did the item Mechanical Glove change to only apply its damage buff to melee weapons instead of all weapon types in Terraria?", "ground_truth": "1.2.3"}
+{"question_id": "simpleqa_189", "question": "What day, month, and year was the municipality of Segovia, Antioquia, Colombia, founded?", "ground_truth": "July 24th, 1869"}
+{"question_id": "simpleqa_190", "question": "What is the name of the recipient of the Dickson Prize in Medicine in 1981?", "ground_truth": "Philip Leder"}
+{"question_id": "simpleqa_191", "question": "Who was awarded The Oceanography Society's Jerlov Award in 2008?", "ground_truth": "Talbot Waterman"}
+{"question_id": "simpleqa_192", "question": "Who served before Cora Sadosky as president of the Association for Women in Mathematics?", "ground_truth": "Carol S. Wood"}
+{"question_id": "simpleqa_193", "question": "Who was the voice of Colonel Drucker in the Medal of Honor (2010) video game?", "ground_truth": "Adrian Holmes"}
+{"question_id": "simpleqa_194", "question": "In which month and year did the IUCN Red List formally update the status of the Chinese paddlefish to \"extinct\"?", "ground_truth": "July 2022"}
+{"question_id": "simpleqa_195", "question": "On what day, month, and year was the case of Nidal Khalid Nasrallah v. William P. Barr decided in the Supreme Court of the United States?", "ground_truth": "June 1, 2020"}
+{"question_id": "simpleqa_196", "question": "The pulsar PSR J0437−4715 is located in which constellation?", "ground_truth": "Pictor"}
+{"question_id": "simpleqa_197", "question": "What is the fuselage length of the Bell 430 rotorcraft in meters?", "ground_truth": "13.44 m"}
+{"question_id": "simpleqa_198", "question": "What month and year did Sony release Beta Hi-Fi?", "ground_truth": "June 1983"}
+{"question_id": "simpleqa_199", "question": "As of 2021, who is the host of The Doers Nepal podcast?", "ground_truth": "Anup Ghimire"}
+{"question_id": "simpleqa_200", "question": "What day, month, and year was the municipality of Tipacoque, Boyacá, Colombia, created?", "ground_truth": "November 28th, 1968"}
+{"question_id": "simpleqa_201", "question": "In Morrowind, whose body can you find the book \"The Lusty Argonian Maid\" in Vivec city?", "ground_truth": "Crassius Curio"}
+{"question_id": "simpleqa_202", "question": "In which year was the municipality of Remedios, Antioquia, Colombia, founded?", "ground_truth": "1560"}
+{"question_id": "simpleqa_203", "question": "Which award and in which category did the animated series \"Avatar: The Last Airbender\" win in 2006?", "ground_truth": "Annie Awards, Storyboarding in an Animated Television Production"}
+{"question_id": "simpleqa_204", "question": "What were the names of the two puppets that appeared in Atlanta, Georgia-based Round Table Pizza's TV commercials from 2003 to 2005?", "ground_truth": "Matt and Marcus"}
+{"question_id": "simpleqa_205", "question": "Who was the recipient of the Leslie Fox Prize for Numerical Analysis in 2017?", "ground_truth": "Nicole Spillane"}
+{"question_id": "simpleqa_206", "question": "How much did Richard Serra's work \"One Ton Prop: House of Cards\" weigh in tons?", "ground_truth": "1 ton"}
+{"question_id": "simpleqa_207", "question": "What Google Sheets formula assigns a name to the value_expression results and returns the result of the formula_expression?", "ground_truth": "LET function\n"}
+{"question_id": "simpleqa_208", "question": "Who won the gold medal in the women's foil event at the first European Fencing Championships?", "ground_truth": "Anna Rita Sparaciari"}
+{"question_id": "simpleqa_209", "question": "On what date, month, and year was the Jonas Mekas Visual Arts Center opened by avant-garde filmmaker Jonas Mekas with its premiere exhibition entitled \"The Avant-Garde: From Futurism to Fluxus\"?", "ground_truth": "November 10, 2007"}
+{"question_id": "simpleqa_210", "question": "What month, date, and year did Tyra Hamilton first appear in Genoa City?", "ground_truth": "June 25, 2008"}
+{"question_id": "simpleqa_211", "question": "According to the 14th report of the State Entomologist on injurious and other insects of NY from 1898, what is \"undoubtedly\" the favorite food of the apple-tree tent caterpillar?", "ground_truth": "Prunus serotina."}
+{"question_id": "simpleqa_212", "question": "Which year was Audrey McLaughlin sworn in as a member of the Queen's Privy Council for Canada?", "ground_truth": "1991"}
+{"question_id": "simpleqa_213", "question": "What is the name of the university in Nepal that was established in 2016 A.D. and is located in Lalitpur?", "ground_truth": "Nepal Open University"}
+{"question_id": "simpleqa_214", "question": "Who is the first recipient of the Manohar Parrikar Yuva Scientist Award?", "ground_truth": "Dr Mathavaraj S"}
+{"question_id": "simpleqa_215", "question": "How many years did Elliot Page spend studying the Interact Program at Vaughan Road Academy?", "ground_truth": "Two"}
+{"question_id": "simpleqa_216", "question": "What is the surname of the psychiatrist who prescribes medication for Marie Hanson for her periodic blackouts in Season 1, Episode 20 of Ally McBeal?", "ground_truth": "Peters"}
+{"question_id": "simpleqa_217", "question": "What is the engine cc of a Honda Juno K (1954)?", "ground_truth": "189"}
+{"question_id": "simpleqa_218", "question": "On what day, month, and year was St. Jude's Church, Birmingham consecrated?", "ground_truth": "26 July 1851"}
+{"question_id": "simpleqa_219", "question": "Who did the musical composition for the play Antigone as presented in the 2022 Athens Epidaurus Festival?", "ground_truth": "Dimitris Theocharis"}
+{"question_id": "simpleqa_220", "question": "Which primary school did Kiraitu Murungi attend?", "ground_truth": "Kionyo Primary School"}
+{"question_id": "simpleqa_221", "question": "Where was Sayyid Ghulam Muhiyuddin Ahmed bin Khairuddin Al Hussaini, a famous Indian politician, born?", "ground_truth": "Mecca"}
+{"question_id": "simpleqa_222", "question": "Who was the first openly bisexual state official in the USA?", "ground_truth": "Evelyn Mantilla"}
+{"question_id": "simpleqa_223", "question": "In what month and year did Theresa Kuffour (former First Lady of Ghana) die?", "ground_truth": "October 2023"}
+{"question_id": "simpleqa_224", "question": "In the British series Happy Valley, Season 2, who jumps off a bridge to their death?", "ground_truth": "John Wadsworth"}
+{"question_id": "simpleqa_225", "question": "What is the full name of the first Black woman to become president of an NFL (National Football League) team?", "ground_truth": "Sandra Douglass Morgan"}
+{"question_id": "simpleqa_226", "question": "Who founded the municipality of Santo Domingo, Antioquia, Colombia?", "ground_truth": "Don Juan Gregorio Duque"}
+{"question_id": "simpleqa_227", "question": "What is the name and surname of the first African American woman to serve as a Portland City Commissioner in Oregon, U.S.?", "ground_truth": "Jo Ann A. Hardesty"}
+{"question_id": "simpleqa_228", "question": "In which year did Hossein Baharvand, an Iranian stem cell and developmental biologist, receive the Mustafa Prize?", "ground_truth": "2019"}
+{"question_id": "simpleqa_229", "question": "In what year did John Lawrence LeConte travel to California via Panama?", "ground_truth": "1849"}
+{"question_id": "simpleqa_230", "question": "Who was the 8th Prime Minister of Nepal?", "ground_truth": "Jung Bahadur Rana"}
+{"question_id": "simpleqa_231", "question": "On what day, month, and year was Joeri Verlinden born?", "ground_truth": "22 January 1988"}
+{"question_id": "simpleqa_232", "question": "What year did the International School of Athens get renamed from TASIS?", "ground_truth": "2004"}
+{"question_id": "simpleqa_233", "question": "In which Friends episode did Rachel find out the sex of her unborn child?", "ground_truth": "Season 8, episode 13: The One Where Chandler Takes A Bath"}
+{"question_id": "simpleqa_234", "question": "What were the day, month, and year of the Terraria desktop patch that added sawmills to the game?", "ground_truth": "August 17th, 2011"}
+{"question_id": "simpleqa_235", "question": "What day, month, and year was the Pradhan Mantri TB Mukt Bharat Abhiyaan Scheme launched in India?", "ground_truth": "9 September 2022"}
+{"question_id": "simpleqa_236", "question": "To whom did Ragnar say, \"When everyone wanted you dead, I kept you alive\" in the Vikings episode \"The Profit and the Loss\"?", "ground_truth": "Rollo"}
+{"question_id": "simpleqa_237", "question": "How many colors does the Zambian flag have?", "ground_truth": "Four - Green, Red, Black, Orange."}
+{"question_id": "simpleqa_238", "question": "Who designed the parish rectory Claverleigh in Creemore?", "ground_truth": "Rev. William Forster's brother, Richard Forster."}
+{"question_id": "simpleqa_239", "question": "Which YouTuber hosted the 12th Streamy Awards on December 4, 2022, at the Beverly Hilton in Los Angeles?", "ground_truth": "Airrack"}
+{"question_id": "simpleqa_240", "question": "Jackie Ormes was the arts editor for the Monongahela High School yearbook during which academic year?", "ground_truth": "1929–1930"}
+{"question_id": "simpleqa_241", "question": "Which month and year was Thomas Charles Hart appointed to the U.S. Senate to fill the seat of Francis T. Maloney upon Maloney's death?", "ground_truth": "February 1945"}
+{"question_id": "simpleqa_242", "question": "What population did the town of Alnham in Northumberland, England have in the 2011 census?", "ground_truth": "245"}
+{"question_id": "simpleqa_243", "question": "Who directed S1E8 of Abstract: The Art of Design?", "ground_truth": "Sarina Roma"}
+{"question_id": "simpleqa_244", "question": "In Pierce v. District of Columbia (2015), which judge ruled that the D.C. Department of Corrections violated the rights of a deaf inmate under the Americans with Disabilities Act?", "ground_truth": "Ketanji Brown Jackson"}
+{"question_id": "simpleqa_245", "question": "What item was found in a damaged wooden coffin in July 2018 by Ramadan Badry Hussein?", "ground_truth": "Mask"}
+{"question_id": "simpleqa_246", "question": "What is a bridge called in Kashmiri?", "ground_truth": "Kadal"}
+{"question_id": "simpleqa_247", "question": "Who is the second son of the former Chief Minister of Tamil Nadu, M. Karunanidhi, and his second wife, Dayalu Ammal?", "ground_truth": "Muthuvel Karunanidhi Alagiri"}
+{"question_id": "simpleqa_248", "question": "What two separate dates in 2018 did Ghana experience earthquakes of 3.3 magnitude on the Richter scale?", "ground_truth": "March 24 2018 and December 9 2018"}
+{"question_id": "simpleqa_249", "question": "In which episode of Season 5 does the British period drama Downton Abbey refer to the Jallianwala Bagh massacre?", "ground_truth": "8"}
+{"question_id": "simpleqa_250", "question": "Name the enzyme that has an enzyme commission number of 3.1.4.2.", "ground_truth": "Glycerophosphocholine phosphodiesterase"}
+{"question_id": "simpleqa_251", "question": "Which academic publisher published the paper \"On Two Mathematical Representations for Semantic Maps\"?", "ground_truth": "De Gruyter "}
+{"question_id": "simpleqa_252", "question": "What song from \"Hamilton\" reflects this message: \"Amidst Eliza begging Hamilton to stay and Angelica moving to London with her new husband\"?", "ground_truth": "\"Non-Stop\""}
+{"question_id": "simpleqa_253", "question": "What is the name of Daniel arap Moi's mother?", "ground_truth": "Kabon"}
+{"question_id": "simpleqa_254", "question": "On what month, day, and year was Debbie Allen honored for her contributions to dance and presented with a Lifetime Achievement Award by Nia Peeples at The Carnival: Choreographer's Ball 10th anniversary show?", "ground_truth": "February 4, 2009"}
+{"question_id": "simpleqa_255", "question": "In which year did Teresa Czerwińska become the Undersecretary of State in the Ministry of Science and Higher Education?", "ground_truth": "2015"}
+{"question_id": "simpleqa_256", "question": "What is the surname of the individual who won the Liversidge Award in 1946?", "ground_truth": "Urey"}
+{"question_id": "simpleqa_257", "question": "In the 2021 census, what was the population of Townview, a suburb in the City of Mount Isa, Australia?", "ground_truth": "2,067"}
+{"question_id": "simpleqa_258", "question": "What day, month, and year was Franco Bassanini, the Italian lawyer, politician, and minister, born?", "ground_truth": "9 May 1940"}
+{"question_id": "simpleqa_259", "question": "In what year did the Computer History Museum have its first exhibit?", "ground_truth": "1975"}
+{"question_id": "simpleqa_260", "question": "What are the first name, middle name, and surname of the American politician who served in the California State Assembly from 1967 to 1976 and who died on February 6, 2007?", "ground_truth": "Leon Douglas Ralph"}
+{"question_id": "simpleqa_261", "question": "In which district of Uttarakhand was Ila Pant (an Indian politician) born?", "ground_truth": "Nainital district"}
+{"question_id": "simpleqa_262", "question": "Name the place in Lahore where an underpass (Habba Khatoon Underpass) has been named after Habba Khatoon (a Kashmiri poetess).", "ground_truth": "Mughalpura"}
+{"question_id": "simpleqa_263", "question": "What were the month, day, and year Sir Nathaniel Brent, English college head, died?", "ground_truth": "November 6, 1652"}
+{"question_id": "simpleqa_264", "question": "Who described Indira Gandhi as the \"Iron Lady\"?", "ground_truth": "Henry Kissinger "}
+{"question_id": "simpleqa_265", "question": "In what year did Norodom Ranariddh become Secretary-General of FUNCINPEC?", "ground_truth": "1989"}
+{"question_id": "simpleqa_266", "question": "As a child, at what temple did Sesshū Tōyō enter the Buddhist community?", "ground_truth": "Hofukuji temple"}
+{"question_id": "simpleqa_267", "question": "As of 2022, what year did the Museum of Recent Art hold an exhibition named Thinking/Not Thinking?", "ground_truth": "2019"}
+{"question_id": "simpleqa_268", "question": "In what month and year was Barry Goldwater's fourth child born?", "ground_truth": "July 1944"}
+{"question_id": "simpleqa_269", "question": "What is the ChemSpider ID of diazepam?", "ground_truth": "2908"}
+{"question_id": "simpleqa_270", "question": "What country placed 8th in the women's épée team event of the 2020 Tokyo Olympics?", "ground_truth": "ROC "}
+{"question_id": "simpleqa_271", "question": "How many sons did Charles Wheatstone have?", "ground_truth": "Two"}
+{"question_id": "simpleqa_272", "question": "What was the only year the LEGO part with ID gal56 was released?", "ground_truth": "2002"}
+{"question_id": "simpleqa_273", "question": "What were the day, month, and year of release for Aseprite v1.3?", "ground_truth": "27 Nov 2023"}
+{"question_id": "simpleqa_274", "question": "What was the time in IST when a fire occurred at a Durga Puja pandal in Narthuwa village in Bhadohi district of the Indian state of Uttar Pradesh on 2 October 2022?", "ground_truth": "9:30 p.m."}
+{"question_id": "simpleqa_275", "question": "What was the year when the Dior watch booth was dedicated to the Dior canework?", "ground_truth": "2006"}
+{"question_id": "simpleqa_276", "question": "In what year was Alain Stanké made a member of the Order of Canada?", "ground_truth": "1998"}
+{"question_id": "simpleqa_277", "question": "Which school did Lyndon B. Johnson briefly teach in Pearsall?", "ground_truth": "Pearsall High School"}
+{"question_id": "simpleqa_278", "question": "How many years was Tomb Raider: The Ride at Kings Island in operation before being rethemed?", "ground_truth": "5"}
+{"question_id": "simpleqa_279", "question": "Which year did Carl Van Vechten take a leave of absence from his job at The New York Times to travel Europe and explore opera?", "ground_truth": "1907"}
+{"question_id": "simpleqa_280", "question": "In which year was the municipality of Buriticá, Antioquia, Colombia, founded?", "ground_truth": "1614"}
+{"question_id": "simpleqa_281", "question": "On which day, month, and year was Max Vuyisile Sisulu born?", "ground_truth": "23 August 1945"}
+{"question_id": "simpleqa_282", "question": "What were the month, day, and year John Stanhope was raised to the peerage as Baron Stanhope of Harrington?", "ground_truth": "May 2, 1605"}
+{"question_id": "simpleqa_283", "question": "In what month and year did Bakshi Ghulam Mohammad announce his retirement from politics?", "ground_truth": "June 1965"}
+{"question_id": "simpleqa_284", "question": "How old was Montreal native Charles Whitlaw in 1846 when he bought a grist mill on Grand River Street from Robert Kirkwood in Paris, Ontario?", "ground_truth": "Twenty two"}
+{"question_id": "simpleqa_285", "question": "From which date, month, and year to which date, month, and year did the Indian politician Anant Geete serve as the Minister of Power in the Indian government?", "ground_truth": "August 26, 2002 – May 22, 2004"}
+{"question_id": "simpleqa_286", "question": "What is the surname of the individual who won the Gibson-Fawcett Award in 2020?", "ground_truth": "Casiraghi"}
+{"question_id": "simpleqa_287", "question": "In what year was Henry Petty, 1st Earl of Shelburne, elected to the Irish House of Commons for Midleton?", "ground_truth": "1692"}
+{"question_id": "simpleqa_288", "question": "After relinquishing his office as Governor of the State Bank of Pakistan, which position was Aftab Ghulam Nabi Kazi appointed to in the Government of Pakistan?", "ground_truth": "Deputy Chairman Planning Commission"}
+{"question_id": "simpleqa_289", "question": "What is the surname of the individual who won the De Gennes Prize (formerly known as the Prize for Materials Chemistry) in 2013?", "ground_truth": "Kitagawa"}
+{"question_id": "simpleqa_290", "question": "What was the tenth-ranked song on the 2021 Rolling Stone's \"The 500 Greatest Songs of All Time\" list?", "ground_truth": "\"Hey Ya!\" by Outkast"}
+{"question_id": "simpleqa_291", "question": "In what year was Niels Erik Norlund awarded a Gold Medal for an essay on continued fractions?", "ground_truth": "1907"}
+{"question_id": "simpleqa_292", "question": "Which scientist received the Gregori Aminoff Prize in 1982?", "ground_truth": "Gunnar Hägg"}
+{"question_id": "simpleqa_293", "question": "What was the original scientific name given to *Calytrix acutifolia* by John Lindley in 1839?", "ground_truth": "Lhotskya acutifolia"}
+{"question_id": "simpleqa_294", "question": "The WWI Q-Ship \"Salvia\" was partially reconstructed with a false counter-stern to resemble what kind of ship?", "ground_truth": "tramp"}
+{"question_id": "simpleqa_295", "question": "What day, month, and year was Louis Armstrong arrested and spent the night at New Orleans Juvenile Court?", "ground_truth": "December 31, 1912"}
+{"question_id": "simpleqa_296", "question": "In which year did Shohidul Islam make his international debut for the Bangladesh cricket team?", "ground_truth": "2021"}
+{"question_id": "simpleqa_297", "question": "In which month and year was Durga Prasad Dhar (an Indian politician) appointed as the Union Minister for Planning?", "ground_truth": " July, 1972"}
+{"question_id": "simpleqa_298", "question": "What is the surname of the individual who won the Faraday Lectureship Prize, previously known simply as the Faraday Lectureship, in 1958?", "ground_truth": "Ruzicka"}
+{"question_id": "simpleqa_299", "question": "What is the name and surname of the former President of South Africa who received a state funeral when he died on January 4, 2007?", "ground_truth": "Viljoen"}
+{"question_id": "simpleqa_300", "question": "Who replaced Bradie Tennell in the 2021 Skate America?", "ground_truth": "Starr Andrews"}
+{"question_id": "simpleqa_301", "question": "What is the surname of the individual who won the Marlow Award in 1983?", "ground_truth": "Oxtoby"}
+{"question_id": "simpleqa_302", "question": "At what time to the nearest tenth of a second did Joeri Adams end the race, ranking in first position, in the 2007 UCI Cyclo-cross World Championships – Men's junior race?", "ground_truth": "41:18"}
+{"question_id": "simpleqa_303", "question": "Marcia Bartusiak traces the term \"black hole\" to which physicist (first name, middle initial, and surname), who reportedly compared the phenomenon in the early 1960s to the Black Hole of Calcutta, a notorious prison where people entered but never left alive?", "ground_truth": "Robert H. Dicke."}
+{"question_id": "simpleqa_304", "question": "Who won the International Photography Awards' \"International Photographer of the Year\" award in 2003?", "ground_truth": "Chris Frazer Smith"}
+{"question_id": "simpleqa_305", "question": "How many times was Muhammad Nawaz Khokhar, former Deputy Speaker of the National Assembly of Pakistan, elected as a Member of the National Assembly from his constituency NA-35 (Islamabad)?", "ground_truth": "3"}
+{"question_id": "simpleqa_306", "question": "What is the name of the naturalist who first described the sharpbill under the binomial name *Oxyrhuncus cristatus* in 1821?", "ground_truth": "William John Swainson"}
+{"question_id": "simpleqa_307", "question": "Who among the people who proposed the three-stage system in an article titled \"Stone Age Cultures of South Africa\" was a civil engineer?", "ground_truth": "Clarence van Riet Lowe"}
+{"question_id": "simpleqa_308", "question": "What was the age gap between George Frederic Watts and his first wife, Ellen Terry?", "ground_truth": "30 years. "}
+{"question_id": "simpleqa_309", "question": "What famous line does Prince Aemond say to his mother, Alicent, when he loses his eye in House of the Dragon?", "ground_truth": "\"Do not mourn me, Mother. It was a fair exchange. I may have lost an eye, but I gained a dragon.\""}
+{"question_id": "simpleqa_310", "question": "What day, month, and year was Janak Patel, a convenience store worker in Auckland, New Zealand, murdered during a robbery?", "ground_truth": "23 November 2022"}
+{"question_id": "simpleqa_311", "question": "What were the month and year when scientists reported that bacteria from Earth, particularly Deinococcus radiodurans bacteria, which is highly resistant to environmental hazards, were found to survive for three years in outer space?", "ground_truth": "August 2020"}
+{"question_id": "simpleqa_312", "question": "On what date (day/month/year) was the Q-Ship “Salvia” (alias Q-15) struck by a torpedo at Lat. 52.15N, Long. 16.13W?", "ground_truth": "June 20, 1917"}
+{"question_id": "simpleqa_313", "question": "What day, month, and year did New Zealand's Prime Minister, Christopher Luxon, marry his wife Amanda?", "ground_truth": "8 January 1994"}
+{"question_id": "simpleqa_314", "question": "In which year was a number of procumbent pearlwort (Sagina procumbens) plants first found on Gough Island in the South Atlantic Ocean, capable of dramatically transforming the upland plant ecosystem?", "ground_truth": "1998"}
+{"question_id": "simpleqa_315", "question": "On what day, month, and year did the Canadian Centre for Inquiry's Think Again! TV document one of Popoff's performances in Toronto?", "ground_truth": "May 26, 2011"}
+{"question_id": "simpleqa_316", "question": "What was Tim Wakefield's ERA during the '04 World Series?", "ground_truth": "12.27"}
+{"question_id": "simpleqa_317", "question": "What day, month, and year was Peicho Peev, the Bulgarian chess International Master, born?", "ground_truth": "2 April 1940"}
+{"question_id": "simpleqa_318", "question": "What is the Kashmir Valley also known as?", "ground_truth": "Vale of Kashmir"}
+{"question_id": "simpleqa_319", "question": "In which year was the municipality of Mutatá, Antioquia, Colombia, founded?", "ground_truth": "1850"}
+{"question_id": "simpleqa_320", "question": "Where is the heart of a shrimp located?", "ground_truth": "Head"}
+{"question_id": "simpleqa_321", "question": "What is the square footage of the gallery space of the State Hermitage Museum?", "ground_truth": "719,480 square feet"}
+{"question_id": "simpleqa_322", "question": "Specify the exact day, month, and year Capcom reported that its servers were affected by ransomware, scrambling its data, and the threat actors, the Ragnar Locker hacker group, had allegedly stolen 1TB of sensitive corporate data and were blackmailing Capcom to pay them to remove the ransomware.", "ground_truth": "2 Nov 2020"}
+{"question_id": "simpleqa_323", "question": "On what day, month, and year was David William Sayer, an English cricketer, born?", "ground_truth": "18 October 1997"}
+{"question_id": "simpleqa_324", "question": "What were the day, month, and year when Google introduced the native dark theme for Chrome on Windows 10?", "ground_truth": "2 of January of 2019"}
+{"question_id": "simpleqa_325", "question": "What year was the alabaster sculpture known as the \"Teotihuacan Ocelot\" found?", "ground_truth": "1889"}
+{"question_id": "simpleqa_326", "question": "Who was awarded the IEEE/RSE James Clerk Maxwell Medal in 2021?", "ground_truth": "Evelyn Lynn Hu"}
+{"question_id": "simpleqa_327", "question": "At what age (in years) did Cora Sadosky enter the School of Science at the University of Buenos Aires?", "ground_truth": "15"}
+{"question_id": "simpleqa_328", "question": "Name the enzyme with an enzyme commission number of 4.1.1.65.", "ground_truth": "phosphatidylserine decarboxylase"}
+{"question_id": "simpleqa_329", "question": "What is the name of the character in the Phantom Manor at Disneyland Paris that beckoned guests to \"hurry back\" before the 2019 renovation?", "ground_truth": "Melanie Ravenswood"}
+{"question_id": "simpleqa_330", "question": "In which Ukrainian city was male impersonator Pepi Litman born?", "ground_truth": "Ternopil"}
+{"question_id": "simpleqa_331", "question": "In what year did Toufiq Hosen Khan, a student of fine arts, engrave a statue of Madhusudan Dey outside today's Madhur Canteen?", "ground_truth": "1995"}
+{"question_id": "simpleqa_332", "question": "In which city was Yevgeny Polivanov arrested on August 16, 1937, during the Great Purge?", "ground_truth": "Bishkek"}
+{"question_id": "simpleqa_333", "question": "On what month, day, and year was the 1976 case of Estelle v. Gamble decided by the Supreme Court of the United States?", "ground_truth": "November 30, 1976"}
+{"question_id": "simpleqa_334", "question": "What month, day, and year was the first round of the 2014 North Miami mayoral special election held?", "ground_truth": "August 26, 2014"}
+{"question_id": "simpleqa_335", "question": "What is the other name for the \"Sangeet Natak Akademi Award\"?", "ground_truth": "Akademi Puraskar"}
+{"question_id": "simpleqa_336", "question": "On what day, month, and year was Eyre Chatterton born?", "ground_truth": "22 July 1863"}
+{"question_id": "simpleqa_337", "question": "Who is known to be the first Indian musician to perform at the United Nations General Assembly in 1966?", "ground_truth": "Madurai Shanmukhavadivu Subbulakshmi"}
+{"question_id": "simpleqa_338", "question": "What day, month, and year was an exhibition of Horiyoshi's silk scroll paintings, \"The Art of Horiyoshi III,\" first displayed at Somerset House?", "ground_truth": "March 21, 2012"}
+{"question_id": "simpleqa_339", "question": "What is the name of Jupiter’s third-largest moon?", "ground_truth": "Io"}
+{"question_id": "simpleqa_340", "question": "In which year was Prof. H. U. Hamidi appointed as Vice Chancellor of the University of Kashmir?", "ground_truth": "1990"}
+{"question_id": "simpleqa_341", "question": "In which school did Ghana's former minister Kwadwo Baah-Wiredu start his secondary education in 1967?", "ground_truth": "Kumasi High School"}
+{"question_id": "simpleqa_342", "question": "What are the five keywords of the paper \"Semantic Maps of Causation: New Hybrid Approaches Based on Corpora and Grammar Descriptions\" as of its publication on June 9, 2022?", "ground_truth": "Causation, Multidimensional Scaling, Graph theory, Cluster analysis, Parallel corpus"}
+{"question_id": "simpleqa_343", "question": "What year did Louis de Broglie become a professor of theoretical physics at the Henri Poincaré Institute?", "ground_truth": "1928"}
+{"question_id": "simpleqa_344", "question": "When, where, and by whom was IFK founded?", "ground_truth": "1 February 1895, Stockholm by Louis Zettersten and Pehr Ehnemark"}
+{"question_id": "simpleqa_345", "question": "What was the Victoria and Albert Museum initially known as when it was established in 1852?", "ground_truth": "Museum of Manufactures"}
+{"question_id": "simpleqa_346", "question": "How many papers did Kunihiko Kodaira publish by 1941?", "ground_truth": "10"}
+{"question_id": "simpleqa_347", "question": "To whom was the Oskar Kokoschka Prize awarded in 2018?", "ground_truth": "Martha Jungwirth"}
+{"question_id": "simpleqa_348", "question": "Which two conlangers created the Sangheili language for the 2022 Halo TV series?", "ground_truth": "David J. Peterson and Carl Buck"}
+{"question_id": "simpleqa_349", "question": "The Honeybee Conservancy founder Guillermo Fernandez was a child immigrant from which country?", "ground_truth": "Cuba"}
+{"question_id": "simpleqa_350", "question": "Between what years did Ashraf Abbasi, the first Deputy Speaker of the National Assembly of Pakistan, remain a member of the West Pakistan Assembly?", "ground_truth": "1962-1965"}
+{"question_id": "simpleqa_351", "question": "Who played Creon in Antigone at the Epidaurus Festival 2022?", "ground_truth": "Vasilis Bisbikis played Creon in Antigone at the Epidaurus Festival in 2022."}
+{"question_id": "simpleqa_352", "question": "What kind of factory did Anselm Kiefer transform into a studio in 1992?", "ground_truth": "Silk factory."}
+{"question_id": "simpleqa_353", "question": "In which year was George Nathaniel Curzon, 1st Marquess Curzon of Kedleston, elected to the House of Lords?", "ground_truth": "1908"}
+{"question_id": "simpleqa_354", "question": "At what baseball field did the Bluff City Bombers of the Central Illinois Collegiate League play their home games from 1998 to 2004?", "ground_truth": "Lloyd Hopkins Field"}
+{"question_id": "simpleqa_355", "question": "Which building in the Republic of Niger won the 1986 Aga Khan Award for Architecture?", "ground_truth": "Yaama Mosque"}
+{"question_id": "simpleqa_356", "question": "Which Iranian organization did Mahlagha Mallah help to found in 1993?", "ground_truth": "Women's Society Against Environmental Pollution"}
+{"question_id": "simpleqa_357", "question": "What engraver did Thomas Ryder apprentice under?", "ground_truth": "James Basire."}
+{"question_id": "simpleqa_358", "question": "In which year did The MOI! Project (Museums of Impact), a part of the Creative Europe program, finish?", "ground_truth": "2022"}
+{"question_id": "simpleqa_359", "question": "What is the first name and surname of the actress who was the guest star that played the bride named Risa in Ally McBeal Season 3, Episode 1?", "ground_truth": "Tracy Middendorf"}
+{"question_id": "simpleqa_360", "question": "What was the name of the Crayola color with hexadecimal #E58E73?", "ground_truth": "Middle Red"}
+{"question_id": "simpleqa_361", "question": "What was the title of the engineer and scientist Ahmet Cemal Eringen's Ph.D. dissertation?", "ground_truth": "Solution of the Two-dimensional Mixed-mixed Boundary Value Problem of Elasticity For Rectangular, Orthotropic Media And Application To The Buckling Of Sandwich Beams[1]"}
+{"question_id": "simpleqa_362", "question": "In which city of Pakistan was Muhammad Rafiq Tarar, a Pakistani politician, born?", "ground_truth": "Mandi Bahauddin, Punjab"}
+{"question_id": "simpleqa_363", "question": "What is the full name of the individual who cheated in the Comrades Marathon in 1993?", "ground_truth": "Herman Matthee"}
+{"question_id": "simpleqa_364", "question": "In what year did John Lennon and Yoko Ono donate their psychedelic Rolls-Royce to the Cooper Hewitt Museum?", "ground_truth": "1977"}
+{"question_id": "simpleqa_365", "question": "What year did Michael John Creutz join the High Energy Theory Group at Brookhaven National Laboratory?", "ground_truth": "1972"}
+{"question_id": "simpleqa_366", "question": "In what year did S. Osman Ali, the 7th Governor of the State Bank of Pakistan, enter the Indian Civil Service?", "ground_truth": "1934"}
+{"question_id": "simpleqa_367", "question": "In which year did Melbourne's Monash Gallery of Art (MGA) rebrand and become the Museum of Australian Photography (MAPh)?", "ground_truth": "2023"}
+{"question_id": "simpleqa_368", "question": "What day, month, and year was Aniello Formisano, an Italian politician and lawyer, born?", "ground_truth": "June 10, 1954."}
+{"question_id": "simpleqa_369", "question": "What is the surname of the individual who won the Ludwig Mond Award in 2008?", "ground_truth": "Crabtree"}
+{"question_id": "simpleqa_370", "question": "What were the day, month, and year of the Aseprite v1.3-beta1 release?", "ground_truth": "May 26th, 2021"}
+{"question_id": "simpleqa_371", "question": "During which year was NASA's Vehicle Assembly Building designated as a National Historic Civil Engineering Landmark by the American Society of Civil Engineers?", "ground_truth": "2020"}
+{"question_id": "simpleqa_372", "question": "What was the date (day/month/year) of the professional rower Albert Hamm's (1860-1891) first professional race?", "ground_truth": "August 1st, 1880"}
+{"question_id": "simpleqa_373", "question": "What was the original name of the town of Dolores, Abra, Philippines?", "ground_truth": "Bucao"}
+{"question_id": "simpleqa_374", "question": "What day, month, and year was Terraria version 1.3.5.2 released?", "ground_truth": "April 21, 2017"}
+{"question_id": "simpleqa_375", "question": "How many times was the first mayor of Paris, Ontario, Hugh Finlayson, elected to the Dominion Parliament?", "ground_truth": "3"}
+{"question_id": "simpleqa_376", "question": "On which day, month, and year was the Tamil daily newspaper Hindu Tamil Thisai founded?", "ground_truth": "\t16 September 2013"}
+{"question_id": "simpleqa_377", "question": "What was the full three-word name of the crystal that the gnome who piloted the airship in the motion simulator Questor, which first opened at Busch Gardens Williamsburg in 1990, was seeking as the ultimate goal of his expedition?", "ground_truth": "Crystal of Zed"}
+{"question_id": "simpleqa_378", "question": "In July 2021, how much rainfall (in millimeters) was recorded in Al Ain due to cloud-seeding efforts?", "ground_truth": "6.9 millimetres"}
+{"question_id": "simpleqa_379", "question": "What is the other name for Oont Kadal in Kashmir?", "ground_truth": "Camel Bridge"}
+{"question_id": "simpleqa_380", "question": "What is the poison resistance value on the Brushwood Helmet from Demon's Souls (2009)?", "ground_truth": "6"}
+{"question_id": "simpleqa_381", "question": "In what key was \"I Offer My Life\" by Don Moen composed?", "ground_truth": "F Major"}
+{"question_id": "simpleqa_382", "question": "What is the surname of the individual who won the Herman Skolnik Award in 1977?", "ground_truth": "Garfield"}
+{"question_id": "simpleqa_383", "question": "Who was Patricia Bullrich's first husband?", "ground_truth": "Marcelo Langieri"}
+{"question_id": "simpleqa_384", "question": "Between 1867 and 1874, how many mayors of Toronto were appointed by the City Council?", "ground_truth": "4"}
+{"question_id": "simpleqa_385", "question": "What is the name of the magic stick that Haumea, the goddess of fertility in Hawaiian mythology, uses to change herself from an old woman to a young girl?", "ground_truth": "Makalei"}
+{"question_id": "simpleqa_386", "question": "What was the population count in the 2011 census of the Republic of Nauru?", "ground_truth": "10,084"}
+{"question_id": "simpleqa_387", "question": "What were the first and last names of the Cunningham Dance Foundation's first executive director?", "ground_truth": "Art Becofsky"}
+{"question_id": "simpleqa_388", "question": "What was Natasha Merle's nomination vote count for the United States District Court for the Eastern District of New York?", "ground_truth": " 50 Yeas and 49 Nays"}
+{"question_id": "simpleqa_389", "question": "What day, month, and year was the first flight of the Boeing–Saab T-7 Red Hawk?", "ground_truth": "20 December 2016"}
+{"question_id": "simpleqa_390", "question": "In whose honor was the Leipzig 1877 tournament organized?", "ground_truth": "Adolf Anderssen"}
+{"question_id": "simpleqa_391", "question": "Name the first 3D planetarium in India.", "ground_truth": "Swami Vivekananda Planetarium"}
+{"question_id": "simpleqa_392", "question": "How many Long-Evans rats were used in the scientific paper, \"A role for anterior thalamic nuclei in affective cognition: interaction with environmental conditions,\" published in Hippocampus in May 2013?", "ground_truth": "102"}
+{"question_id": "simpleqa_393", "question": "Why was Bessie Smith dismissed from Black Swan Records during auditions?", "ground_truth": " she was considered too rough "}
+{"question_id": "simpleqa_394", "question": "What is the memory clock speed in MHz for the GeForce4 MX420 (2002)?", "ground_truth": "166"}
+{"question_id": "simpleqa_395", "question": "Which law school was Natasha Merle a lecturer at from 2020 to 2021?", "ground_truth": "Columbia Law School"}
+{"question_id": "simpleqa_396", "question": "On what date, month, and year was the Indian politician Prabhunath Singh born?", "ground_truth": "20 November 1953"}
+{"question_id": "simpleqa_397", "question": "Which season and episode of \"Saturday Night Live\" did Susan Lucci host?", "ground_truth": "Season 16, Episode 2"}
+{"question_id": "simpleqa_398", "question": "Who was the first Tunisian president to be elected by universal suffrage after the 2011 revolution?", "ground_truth": "Beji Caid Essebsi"}
+{"question_id": "simpleqa_399", "question": "What year was the municipality of Chivor, Boyacá, Colombia, founded?", "ground_truth": "1930"}
+{"question_id": "simpleqa_400", "question": "Who is the credited producer for the Silent Hill 2 Original Soundtrack released in 2001?", "ground_truth": "Takaharu Ikeda"}
+{"question_id": "simpleqa_401", "question": "In what year was Elliott Fitch Shepard nominated for United States Attorney for the Southern District of New York by President Rutherford B. Hayes?", "ground_truth": "1881"}
+{"question_id": "simpleqa_402", "question": "Babymetal's song \"Road of Resistance\" charted at what number on the Billboard World Digital Songs chart for the week of February 21, 2015?", "ground_truth": "22"}
+{"question_id": "simpleqa_403", "question": "What day, month, and year did Disney Entertainment Projects open DisneyFest in Singapore?", "ground_truth": "October 30, 1997"}
+{"question_id": "simpleqa_404", "question": "On what day, month, and year was Manuleleua Paletasala Tovale appointed Associate Minister for the Prime Minister and Cabinet?", "ground_truth": "28 July 2021"}
+{"question_id": "simpleqa_405", "question": "Who is the voice actor for Tsubomi in all three seasons of Mob Psycho 100's German dub?", "ground_truth": "Patricia Strasburger"}
+{"question_id": "simpleqa_406", "question": "What month, day, and year was the Köln Frankfurter Straße station opened?", "ground_truth": "13 June 2004"}
+{"question_id": "simpleqa_407", "question": "What month, day, and year did Feodor Timofeyev, consul for the Soviet Union in Georgetown, visit Jonestown for two days and give a speech?", "ground_truth": "2 October 1978"}
+{"question_id": "simpleqa_408", "question": "What was the name of the younger brother of Mukul Chandra Dey who was a member of the Progressive Artists' Group and a prominent painter of the Bengal School of Art?", "ground_truth": "Manishi Dey"}
+{"question_id": "simpleqa_409", "question": "How many candidates entered their work in the Prix de Rome in the engraving category in 1805?", "ground_truth": "1"}
+{"question_id": "simpleqa_410", "question": "Who was Raquel Meller's second husband?", "ground_truth": "Edmond Saiac"}
+{"question_id": "simpleqa_411", "question": "What year did Australian politician William Lawrence Morrison graduate from the University of Sydney?", "ground_truth": "1949"}
+{"question_id": "simpleqa_412", "question": "Who was Ghana's Minister of Information at the time of the Kulungugu bomb attack?", "ground_truth": "Tawia Adamafio"}
+{"question_id": "simpleqa_413", "question": "What is the total area in acres of Bobbili Fort?", "ground_truth": "10 acres "}
+{"question_id": "simpleqa_414", "question": "Which DropoutTV series is a spin-off of \"Game Changer\" inspired by its \"Noise Boys\" episodes?", "ground_truth": "Make Some Noise"}
+{"question_id": "simpleqa_415", "question": "In what year was Sir Syed Ahmed Khan appointed as the Munsif of Fatehpur Sikri?", "ground_truth": "1841"}
+{"question_id": "simpleqa_416", "question": "To whom was R. C. Harvey married?", "ground_truth": "Linda Kubicek"}
+{"question_id": "simpleqa_417", "question": "What is the name of the campus where Princess Shruti Rajya Lakshmi Devi Shah completed her bachelor's degree?", "ground_truth": "Padma Kanya Campus "}
+{"question_id": "simpleqa_418", "question": "The globular cluster NGC 2298 is located within which constellation?", "ground_truth": "Puppis"}
+{"question_id": "simpleqa_419", "question": "Which is the largest tributary of the Indus River?", "ground_truth": "Chenab "}
+{"question_id": "simpleqa_420", "question": "What was Zero Bridge originally nicknamed in Srinagar, Kashmir?", "ground_truth": "Zorr Bridge"}
+{"question_id": "simpleqa_421", "question": "What is the surname of the individual who won the Gibson-Fawcett Award in 2012?", "ground_truth": "Fogg"}
+{"question_id": "simpleqa_422", "question": "In 1981, Judith Feist Hemmendinger received her Ph.D. from which French university?", "ground_truth": "University of Strasbourg."}
+{"question_id": "simpleqa_423", "question": "In what year was Eugenius Aristides Nisbet elected to the Georgia House of Representatives?", "ground_truth": "1827"}
+{"question_id": "simpleqa_424", "question": "What is the last name of the player who got a yellow card in the 71st minute of the match between Germany and Sweden during the 2018 FIFA World Cup?", "ground_truth": "Boateng"}
+{"question_id": "simpleqa_425", "question": "What is the ChemSpider ID of oxycodone?", "ground_truth": "4447649"}
+{"question_id": "simpleqa_426", "question": "In Season 2 of Dexter, who catches Dexter while trying to dispose of his mother's killer's remains?", "ground_truth": "Doakes"}
+{"question_id": "simpleqa_427", "question": "On which day, month, and year did the Ministry of Road Transport and Highways (MoRTH), Government of India, promulgate the Green Highways (Plantations, Transplantations, Beautification and Maintenance) Policy – 2015?", "ground_truth": "September 29 2015"}
+{"question_id": "simpleqa_428", "question": "Who wrote the song \"Let's Do It Again\" performed by TLC?", "ground_truth": "Babyface and Jon-John"}
+{"question_id": "simpleqa_429", "question": "In what year did the Japanese mathematician Kiyosi Ito receive the Fujiwara Prize?", "ground_truth": "1985"}
+{"question_id": "simpleqa_430", "question": "To whom does the garment held by one of the angels in \"The Baptism of Christ\" by Andrea del Verrocchio and Leonardo da Vinci belong?", "ground_truth": "Jesus"}
+{"question_id": "simpleqa_431", "question": "At what university did Lorne Baird Warneke attend medical school?", "ground_truth": "University of Alberta "}
+{"question_id": "simpleqa_432", "question": "Who won the 2017 Kalpana Chawla Award for courage and daring enterprise?", "ground_truth": "Preethi Srinivasan"}
+{"question_id": "simpleqa_433", "question": "Which geologist received the Roebling Medal in 1985?", "ground_truth": "Francis John Turner"}
+{"question_id": "simpleqa_434", "question": "Who wrote the drama \"HUM KAHAN K SACHAY THAY\"? In which year and month was it released?", "ground_truth": "Umera Ahmad, 2021, August"}
+{"question_id": "simpleqa_435", "question": "What day, month, and year did MKA first say, \"Peace at home, peace in the world?\"", "ground_truth": "20 April 1931"}
+{"question_id": "simpleqa_436", "question": "On what day, month, and year did the Brazilian mathematician Leopoldo Luis Cabo Penna Franca marry Ana Cristina Leonardos?", "ground_truth": "July 28, 1983"}
+{"question_id": "simpleqa_437", "question": "Who is Mrs. Selvig's secret identity in Season 1 of Severance?", "ground_truth": "Harmony Cobel"}
+{"question_id": "simpleqa_438", "question": "What year was the municipality of Panqueba, Boyacá, Colombia, founded?", "ground_truth": "1635"}
+{"question_id": "simpleqa_439", "question": "What was the capacity of the orchestra level of the Hanna Theatre located in Cleveland, Ohio, before its renovation?", "ground_truth": "827 seats"}
+{"question_id": "simpleqa_440", "question": "What was the name of the place where Valerie Thomas mentored students who were working in the summer programs?", "ground_truth": "Goddard Space Flight Center."}
+{"question_id": "simpleqa_441", "question": "In August 2012, what was the address of the First Church of Christ, Scientist that W. V. Grant purchased?", "ground_truth": "1508 Cadiz Street, Dallas, TX, 75201"}
+{"question_id": "simpleqa_442", "question": "In the 2020 case of Arthur J. Lomax v. Christina Ortiz-Marquez, in which state was Arthur Lomax a prison inmate at the time of the case?", "ground_truth": "Colorado"}
+{"question_id": "simpleqa_443", "question": "At what age did Madhusudan Dey (Modhu), founder of the Madhur Canteen, come to Dhaka, Bangladesh, with his father?", "ground_truth": "15"}
+{"question_id": "simpleqa_444", "question": "In which year did the United States Defense Health Agency first approve payment for sex reassignment surgery for an active-duty U.S. military service member?", "ground_truth": "2017"}
+{"question_id": "simpleqa_445", "question": "Who did Kentaro Yano's father tell him the Theory of Relativity was not written by?", "ground_truth": "God"}
+{"question_id": "simpleqa_446", "question": "In which year was the \"People's Action Committee\" (a political party) established in Kashmir?", "ground_truth": "1963"}
+{"question_id": "simpleqa_447", "question": "How much money did Benny Hinn Ministries donate to the tsunami relief effort in 2007?", "ground_truth": "$250,000"}
+{"question_id": "simpleqa_448", "question": "Who won the Benjamin Franklin Medal for Computer and Cognitive Science in 2013?", "ground_truth": "William Labov"}
+{"question_id": "simpleqa_449", "question": "What fort was Thomas Waller of Branchele knighted at by Thomas Lord Burgh, Lord Deputy of Ireland, in 1597?", "ground_truth": "Blackwater fort"}
+{"question_id": "simpleqa_450", "question": "What did Edvard Bull Sr., the Norwegian politician, die of in 1932?", "ground_truth": "Brain Tumor"}
+{"question_id": "simpleqa_451", "question": "Name the person appointed as the Vice-Chancellor of Jamia Millia Islamia, New Delhi, in 1978.", "ground_truth": "Anwar Jamal Kidwai"}
+{"question_id": "simpleqa_452", "question": "Which president had a meeting with Kwame Nkrumah right before the Kulungugu bomb attack?", "ground_truth": "Maurice Yameogo"}
+{"question_id": "simpleqa_453", "question": "At the time of his birth, what was the name of the town in which the former Prime Minister of Poland Kazimierz Władysław Bartel was born?", "ground_truth": "Lemberg."}
+{"question_id": "simpleqa_454", "question": "On what date, month, and year were women officially welcomed into the United States Polo Association?", "ground_truth": "1 January, 1972"}
+{"question_id": "simpleqa_455", "question": "Who was the first president of the Pakistan Cycling Federation?", "ground_truth": "Muhammad Ali Jinnah"}
+{"question_id": "simpleqa_456", "question": "What cabinet position did Sir Hector-Louis Langevin hold in 1870?", "ground_truth": "Minister of Public Works"}
+{"question_id": "simpleqa_457", "question": "What are the notes of the bebop scale in Key A major?", "ground_truth": "A, B, C♯, D, E, F, F♯, G♯"}
+{"question_id": "simpleqa_458", "question": "In which year were the two novel RNA viruses, distantly related to pestiviruses and coltiviruses, detected in the genomes of dead Manis javanica and Manis pentadactyla?", "ground_truth": "2020"}
+{"question_id": "simpleqa_459", "question": "What was the population of Spring Rock Township, Clinton County, Iowa, at the time of the 2000 Census?", "ground_truth": "1,142"}
+{"question_id": "simpleqa_460", "question": "What was the election symbol of the Rastriya Swatantra Party as of 2022?", "ground_truth": "a bell inside a circle"}
+{"question_id": "simpleqa_461", "question": "What field was Rev. Dr. Lee B. Spitzer awarded a PhD in from Vrije Universiteit Amsterdam and the International Baptist Theological Study Centre?", "ground_truth": "Theology"}
+{"question_id": "simpleqa_462", "question": "Who won the Gerard P. Kuiper Prize in 2010?", "ground_truth": "Jeffrey Cuzzi"}
+{"question_id": "simpleqa_463", "question": "Provide the month and year Gazprom became an official partner of FIFA tournaments from 2015 to 2018. The contract included the 2018 FIFA World Cup in Russia.", "ground_truth": "September 2013"}
+{"question_id": "simpleqa_464", "question": "What President nominated Elliott Fitch Shepard as United States Attorney for the Southern District of New York?", "ground_truth": "Rutherford B. Hayes"}
+{"question_id": "simpleqa_465", "question": "Which mountain stream flows between the valleys of Chinamarg and Nurpur Pass?", "ground_truth": "Ferozepur Nallah"}
+{"question_id": "simpleqa_466", "question": "Who won the International Photography Awards' Discovery of the Year Award in 2013?", "ground_truth": "Carlotta Cardana"}
+{"question_id": "simpleqa_467", "question": "What relation is David W. Duclon to Cherie Johnson?", "ground_truth": "Maternal uncle. "}
+{"question_id": "simpleqa_468", "question": "Who murdered the original Baron Blitzkrieg?", "ground_truth": "Superboy-Prime"}
+{"question_id": "simpleqa_469", "question": "For how many years did John Constable (English landscape painter) work on \"The Opening of Waterloo Bridge\"?", "ground_truth": "13"}
+{"question_id": "simpleqa_470", "question": "What was Yoido Full Gospel Church's membership in 1968?", "ground_truth": "8000"}
+{"question_id": "simpleqa_471", "question": "In what city was the 1st ASEM Education Ministers' Meeting held?", "ground_truth": "Berlin"}
+{"question_id": "simpleqa_472", "question": "What was the Christian denomination to which Frank Lloyd Wright's father originally belonged?", "ground_truth": "Baptist"}
+{"question_id": "simpleqa_473", "question": "What subject did Mary Winifred Betts, the spouse of Alexander Craig Aitken, lecture on at Otago University?", "ground_truth": "Botony"}
+{"question_id": "simpleqa_474", "question": "How many DLCs were released for Elder Scrolls V: Skyrim as of December 5, 2012?", "ground_truth": "3"}
+{"question_id": "simpleqa_475", "question": "What is the name of the engineer and politician Ralph Edward Flanders' sole son?", "ground_truth": "James."}
+{"question_id": "simpleqa_476", "question": "Sir Isaac Julien's installation piece 'Lost Boundaries' is from which year?", "ground_truth": "2003"}
+{"question_id": "simpleqa_477", "question": "Who wrote the lyrics to \"Dream Serenade,\" the opening theme song for the radio program \"The American Album of Familiar Music\"?", "ground_truth": "Alfred Bryan"}
+{"question_id": "simpleqa_478", "question": "How tall exactly (in meters) is the outdoor kinetic sculpture 'Head of Franz Kafka' installed in Prague?", "ground_truth": "10.6"}
+{"question_id": "simpleqa_479", "question": "What is the name of the city where Alain Stanké was born?", "ground_truth": "Kaunas"}
+{"question_id": "simpleqa_480", "question": "In which year was Amrita Sher-Gil (a Hungarian-Indian painter) briefly engaged to Yusuf Ali Khan?", "ground_truth": "1931"}
+{"question_id": "simpleqa_481", "question": "Who is the voice actor for the character named Griggs in the game Dark Souls 1 for the PlayStation 3?", "ground_truth": "Blake Ritson"}
+{"question_id": "simpleqa_482", "question": "Who was the first transgender person in Argentina to get her name and gender on her government-issued ID legally changed?", "ground_truth": "Florencia de la V"}
+{"question_id": "simpleqa_483", "question": "What is the surname of the individual who won the Faraday Medal, awarded by the Electrochemistry Group of the Royal Society of Chemistry in 1987?", "ground_truth": "Gerischer"}
+{"question_id": "simpleqa_484", "question": "On what day, month, and year did Vladas Mironas, who was the 14th Prime Minister of Lithuania, take office?", "ground_truth": "March 24, 1938"}
+{"question_id": "simpleqa_485", "question": "What is the name of the computer scientist who supervised the doctoral thesis of Annamaria Beatrice Amenta at the University of California, Berkeley?", "ground_truth": " Raimund Seidel"}
+{"question_id": "simpleqa_486", "question": "On which day, month, and year was Neil Druckmann promoted to co-president of Naughty Dog alongside Evan Wells?", "ground_truth": "4 Dec 2020"}
+{"question_id": "simpleqa_487", "question": "What was the name of the minor planet discovered by the Soviet astronomer in the name of Pyotr Kapitsa in 1982?", "ground_truth": "3437 Kapitsa"}
+{"question_id": "simpleqa_488", "question": "In which year was Arthur C. Wade, an American lawyer in the 1800s and New York politician, first admitted to the state bar?", "ground_truth": "1877"}
+{"question_id": "simpleqa_489", "question": "What is the Regional Transport Office (RTO) code for the Phek district location in Nagaland, India?", "ground_truth": "NL-08"}
+{"question_id": "simpleqa_490", "question": "How many competitors from 11 nations participated in Fencing at the 1908 Summer Olympics – Men's saber?", "ground_truth": "76"}
+{"question_id": "simpleqa_491", "question": "Which streamer won the \"Best Philanthropic Streamer\" award at The Streamer Awards in 2022?", "ground_truth": "jacksepticeye"}
+{"question_id": "simpleqa_492", "question": "Who is the credited conductor on the Super Mario Galaxy Original Soundtrack: Platinum Version?", "ground_truth": "Koji Haishima"}
+{"question_id": "simpleqa_493", "question": "On what date (day/month/year) was Henry Charles Howard, 13th Duke of Norfolk, elected to the House of Commons for Horsham?", "ground_truth": "May 4, 1829"}
+{"question_id": "simpleqa_494", "question": "In what city and state was Richard Diebenkorn stationed for the U.S. Marine Corps?", "ground_truth": "Quantico, Virginia"}
+{"question_id": "simpleqa_495", "question": "Who was the referee in the rugby match between Georgia and Portugal that was part of the 2022 Rugby Europe Championship on February 6, 2022?", "ground_truth": "Romain Poite"}
+{"question_id": "simpleqa_496", "question": "How many UN Volunteers served in 54 United Nations missions, agencies, funds, and programs across the globe in 2019?", "ground_truth": " 8,282"}
+{"question_id": "simpleqa_497", "question": "How many amendments to the Pakistani Constitution were not passed as of 2022?", "ground_truth": "3"}
+{"question_id": "simpleqa_498", "question": "Who won the Hall Medal in 2011?", "ground_truth": "Olga Polverino"}
+{"question_id": "simpleqa_499", "question": "In what city and state did Colin Pittendrigh die?", "ground_truth": "Bozeman, Montana"}
+{"question_id": "simpleqa_500", "question": "What year was the municipality of Amalfi, Antioquia, Colombia, founded?", "ground_truth": "1838"}

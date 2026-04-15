@@ -1,0 +1,2 @@
+Please reason step by step, and put your final answer within \boxed{{}}. Only give me the answer and do not output any other words.
+Question: {query}

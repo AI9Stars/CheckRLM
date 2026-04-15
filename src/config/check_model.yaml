@@ -1,0 +1,9 @@
+# Check model inference parameters
+check_model:
+  temperature: 0  # for gen dpo data, you should give a list of temperatures, eg. [0.1, 0.5, 0.9]
+  top_p: 0.95  # for gen dpo data, you should give a list of top_ps, eg. [0.1, 0.5, 0.9]
+  top_k: -1
+  max_tokens: 4096
+  seed: 42
+  n: 1
+  repetition_penalty: 1.0

@@ -1,0 +1,14 @@
+Task: Evaluate refined reasoning processes based on quality criteria strictly and identify the best and the worst refined reasoning process. Quality criteria refer to:
+1. Structural Integrity: strictly preserves the original reasoning process structure. Do not add any other suppliment information at the end of the original reasoning process even the suppliment information is right. The refined reasoning process contain negative sentence such as "the retrieved documents do not contain related information" is the worst;
+2. Precise Corrections: Only modifies factually incorrect content verified by retrieved documents.
+3. Conciseness: No redundant text in the refined reasoning process including unnecessary prefixes, explanatory Notes, the continuation after the original reasoning process such as "According to the retrieved documents".
+
+Output Rules:
+1. JSON format: {{"best_id": <id of the refined reasoning process that fully meets all Evaluation Criteria>, "worst_id": <id of the refined reasoning process that violates the most Quality criteria>}}
+2. If there is minimal quality difference between the best reasoning process and the worst reasoning process or there is no worst refined reasoning process, assign the same id to both best_id and worst_id
+3. If no refined reasoning process meets all Evaluation Criteria above, return an empty object {{}}
+4. Do not include any explanations or additional text.
+
+Retrieved documents: {refs}
+Original reasoning process: {think}
+Generated refined reasoning processes: {refine_responses}

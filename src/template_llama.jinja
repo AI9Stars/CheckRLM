@@ -1,0 +1,5 @@
+{% for message in messages -%}
+{% if message['role'] == 'system' %}{{'<｜begin▁of▁sentence｜>' + message['content']}}{% endif -%}
+{% if message['role'] == 'user' %}{{'<｜begin▁of▁sentence｜><｜User｜>' + message['content']}}{% endif -%}
+{% if message['role'] == 'assistant' %}{{'<｜Assistant｜>' + message['content']}}{% endif -%}
+{%- endfor %}

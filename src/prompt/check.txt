@@ -1,0 +1,2 @@
+Task: Extract only explicit factual claims from the Reasoning Process that are helpful to answering the Question. The Reasoning Process contains factual information useful for addressing the Question. Your task is to identify, extract, and summarize these relevant facts into clear factual claims. The factual claims must based on the Reasoning Process, NEVER add any new content by yourself. Try to avoid two factual claims that have similar meaning. Output is a list of string. The output foramt is as follows: 
+["factual claim 1", "factual claim 2", ...]
