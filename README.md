@@ -43,7 +43,7 @@ We propose **CheckRLM**, a framework that employs Retrieval-Augmented Generation
 conda create --name checkrlm python=3.12
 conda activate checkrlm
 
-git clone https://github.com/AI9Star/CheckRLM.git
+git clone https://github.com/AI9Stars/CheckRLM.git
 cd CheckRLM
 pip install -r requirement.txt
 ```
@@ -172,4 +172,4 @@ We acknowledge the following open-source projects that informed our code:
 ```
 
 ## ⭐ Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=AI9Star/CheckRLM&type=Date)](https://star-history.com/#AI9Star/CheckRLM&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=AI9Stars/CheckRLM&type=Date)](https://star-history.com/#AI9Stars/CheckRLM&Date)
