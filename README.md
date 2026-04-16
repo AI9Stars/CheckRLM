@@ -2,10 +2,10 @@
 <h1> CheckRLM: Effective Knowledge–Thought Coherence Checking in
 Retrieval-Augmented Reasoning
 <h5 align="center"> 
-  
+
 <a href='xxx'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
-<a href='https://huggingface.co/Qwen/Qwen3-32B'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-DPO Training Data-blue'></a>
-<a href='https://huggingface.co/meta-llama/Llama-3.1-70B-Instruct'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Qwen 2.5_14B DPO-blue'></a>
+<a href='xxx'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-DPO Training Data-blue'></a>
+<a href='xxx'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Qwen 2.5_14B DPO-blue'></a>
 
 
 Dingling Xu<sup>1</sup>,
@@ -168,13 +168,8 @@ We acknowledge the following open-source projects that informed our code:
 
 ## 🥰 Citation
 ```
-@article{chen2025ultrarag,
-  title={UltraRAG: A Modular and Automated Toolkit for Adaptive Retrieval-Augmented Generation},
-  author={Chen, Yuxuan and Guo, Dewen and Mei, Sen and Li, Xinze and Chen, Hao and Li, Yishan and Wang, Yixuan and Tang, Chaoyue and Wang, Ruobing and Wu, Dingjun and others},
-  journal={arXiv preprint arXiv:2504.08761},
-  year={2025}
-}
+
 ```
 
 ## ⭐ Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=xxx/CheckRLM&type=Date)](https://star-history.com/#xxx/CheckRLM&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=AI9Star/CheckRLM&type=Date)](https://star-history.com/#AI9Star/CheckRLM&Date)
