@@ -1,11 +1,11 @@
 <div align="center">
-<h1> CheckRLM: Effective Knowledge–Thought Coherence Checking in
+<h1> CheckRLM: Effective Knowledge-Thought Coherence Checking in
 Retrieval-Augmented Reasoning
 <h5 align="center"> 
 
-<a href='xxx'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
-<a href='xxx'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-DPO Training Data-blue'></a>
-<a href='xxx'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Qwen 2.5_14B DPO-blue'></a>
+<a href='https://aclanthology.org/2026.acl-long.1780/'><img src='https://img.shields.io/badge/Paper-ACL-red'></a>
+<a href='https://huggingface.co/datasets/ldbb123/CheckRLM_DPO_Training_Qwen2.5-14B'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-DPO%20Training%20Data-blue'></a>
+<a href='https://huggingface.co/ldbb123/CheckRLM_Qwen-2.5-14B_DPO'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Qwen%202.5_14B%20DPO-blue'></a>
 
 
 Dingling Xu<sup>1</sup>,
@@ -157,7 +157,7 @@ bash src/scripts/gen_dpo_data.sh
 bash src/scripts/train_dpo.sh
 ```
 
-We also provide our [DPO training data]() and [Qwen-2.5-14B-Instruct_DPO]() model. 
+We also provide our [DPO training data](https://huggingface.co/datasets/ldbb123/CheckRLM_DPO_Training_Qwen2.5-14B) and [Qwen-2.5-14B-Instruct_DPO](https://huggingface.co/ldbb123/CheckRLM_Qwen-2.5-14B_DPO) model. 
 
 ## 📄 Acknowledgement
 
@@ -168,7 +168,34 @@ We acknowledge the following open-source projects that informed our code:
 
 ## 🥰 Citation
 ```
-
+@inproceedings{xu-etal-2026-checkrlm,
+    title = "{C}heck{RLM}: Effective Knowledge{--}Thought Coherence Checking in Retrieval-Augmented Reasoning",
+    author = "Xu, Dingling  and
+      Wang, Ruobing  and
+      Zhao, Qingfei  and
+      Yan, Yukun  and
+      Wang, Zhichun  and
+      Zha, Daren  and
+      Yu, Shi  and
+      Liu, Zhenghao  and
+      Wang, Shuo  and
+      Han, Xu  and
+      Sun, Maosong",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Proceedings of the 64th Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.acl-long.1780/",
+    doi = "10.18653/v1/2026.acl-long.1780",
+    pages = "38403--38426",
+    ISBN = "979-8-89176-390-6",
+    abstract = "Reasoning Language Models (RLMs) have significantly improved performance on complex tasks by extending the reasoning chain. However, these chains are prone to containing factual errors, particularly in knowledge-intensive tasks. To address this issue, we propose **CheckRLM**, a framework that improves the reliability of the reasoning process through Retrieval-Augmented Generation (RAG) by timely checking and correcting factual errors. Specifically, CheckRLM extracts factual claims from the reasoning chain to identify and localize subtle knowledge inconsistencies during inference. Upon detection of errors, a refinement mechanism performs minimal-cost yet precise corrections by leveraging external knowledge, ensuring coherence between the reasoning chain and correct knowledge. Extensive experiments demonstrate that CheckRLM substantially outperforms existing baselines, exhibiting a strong capability to mitigate error accumulation in long-horizon reasoning with lower costs. The code and data are available at https://github.com/AI9Stars/CheckRLM."
+}
 ```
 
 ## ⭐ Star History
